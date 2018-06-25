@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">mytimer</string>
+
+    <string-array name="options">
+        <item>STOPWATCH</item>
+        <item>LAP COUNTER</item>
+        <item>TIME CHASE</item>
+        <item>HELP</item>
+        <item>CREDITS</item>
+    </string-array>
+
+</resources>
